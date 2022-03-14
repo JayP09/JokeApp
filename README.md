@@ -1,3 +1,11 @@
+# Description
+Joke App which fetch the joke from [Joke Api](https://v2.jokeapi.dev/).
+
+# Demo
+<img src="./assets/jokeapp.png">
+
+<img src="./assets/jokeapp2.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
