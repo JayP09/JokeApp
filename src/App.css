@@ -48,3 +48,9 @@ h1{
     font-weight: bold;
 	text-decoration: none;
 }
+
+@media (max-width: 500px) {
+	.cardcontainer{
+		margin: 10px;
+	}
+}
