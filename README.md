@@ -1,5 +1,5 @@
 # Description
-Joke App which fetch the joke from [Joke Api](https://v2.jokeapi.dev/).
+Joke App which fetch the joke from [Joke API](https://v2.jokeapi.dev/).
 
 # Demo
 <img src="./assets/jokeapp.png">
